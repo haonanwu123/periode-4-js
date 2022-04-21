@@ -1,0 +1,40 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.mycars{
+    width: 600px;
+    text-align: center;
+    border: 1px solid black;
+    padding: 2%;
+    position: absolute;
+    right: 450px;
+}
+
+.myitems{
+    width: 600px;
+    text-align: center;
+    border: 1px solid black;
+    padding: 2%;
+    position: absolute;
+    right: 450px;
+    top: 1500px;
+}
+
+.myarticles{
+    width: 600px;
+    text-align: center;
+    border: 1px solid black;
+    padding: 2%;
+    position: absolute;
+    right: 450px;
+    top: 2500px;
+}
+
+
+.item {
+    margin: 2em;
+    border: 1px solid black;
+}
